@@ -1,4 +1,4 @@
-import '../styles/style.scss';
+import '../css/style.scss';
 
 const sum = (a, b) => a + b;
 
